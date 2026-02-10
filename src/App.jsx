@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <h1>Ejercicio Práctico Unidad 1 - React</h1>
-      <p>Por: Pedro - Desarrollo y Gestión de Software</p>
       
       {/* Desafío 3: Estado e Interacción */}
       <ButtonToggle />
